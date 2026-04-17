@@ -1,2 +1,2 @@
-# Atividade 2 - Testes
+# Atividade 2 - Testes Java
 ## Jefferson de Souza Gonçalves
